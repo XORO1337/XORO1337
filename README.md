@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XORO1337
-- 👀 I love to hack stuff 
+- 👀 I love to hack n code Websites and Devices 
 - 🌱 I’m currently learning Backend 
-- 💞️ I’m looking to collaborate on various
 - 📫 Email : stromybolt@protonmail.com
 
 <!---
